@@ -9,13 +9,11 @@ Everything at @apifellows is an API - so this repository contains, how else coul
 
 # @apifellows - REST API Specifications
 
+![@apifellows score for Online REST API Linter API](https://www.apifellows.com/wp-json/api-linter/v0/oas3/badges/checkurl?url=https://github.com/apifellows/apifellows/oas3/apifellows-rest-api-linter-v0.yaml)
+
 The main features our API currently provides:
 
 - /oas3/checkfile - Validate OAS3 provided as a file.
 - /oas3/checkurl - Validate OAS3 provided via a publicly accessible URL.
 - /oas3/checkfile - Validate OAS3 provided as a YAML string in the request body.
 - /oas3/badges/checkurl - Show the validation score of an OAS3 provided via a publicly accessible URL as image.
-
-Scores:
-
-![@apifellows score for Online REST API Linter API](https://www.apifellows.com/wp-json/api-linter/v0/oas3/badges/checkurl?url=https://www.apifellows.com/wp-content/uploads/demo-error.yaml)
