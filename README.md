@@ -9,7 +9,7 @@ Everything at @apifellows is an API - so this repository contains, how else coul
 
 # @apifellows - REST API Specifications
 
-![@apifellows score for Online REST API Linter API](https://www.apifellows.com/wp-json/api-linter/v0/oas3/badges/checkurl?url=https://raw.githubusercontent.com/apifellows/apifellows/refs/heads/main/oas3/apifellows-rest-api-linter-v0.yaml)
+[![@apifellows score for Online REST API Linter API](https://www.apifellows.com/wp-json/api-linter/v0/oas3/badges/checkurl?url=https://raw.githubusercontent.com/apifellows/apifellows/refs/heads/main/oas3/apifellows-rest-api-linter-v0.yaml)](https://www.apifellows.com/rest-api-linter/checkurl?url=https://raw.githubusercontent.com/apifellows/apifellows/refs/heads/main/oas3/apifellows-rest-api-linter-v0.yaml))
 
 The main features our API currently provides:
 
