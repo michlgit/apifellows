@@ -6,14 +6,9 @@ info:
     url: https://www.apifellows.com/support
   description: 'This REST API allows users to validate their OpenAPI Specification
     in version 3.x (OAS3) against our REST API guidelines. It provides tools for:
-
     - Validating OpenAPI Specification YAML-files.
-
     - Linting and enforcing REST API guidelines.
-
-    - Reporting compliance issues and suggested fixes.
-
-    '
+    - Reporting compliance issues and suggested fixes.'
   title: '@apifellows Online REST API Linter'
   version: 0.113.0
 servers:
