@@ -15,5 +15,5 @@ The main features our API currently provides:
 
 - /oas3/checkfile - Validate OAS3 provided as a file.
 - /oas3/checkurl - Validate OAS3 provided via a publicly accessible URL.
-- /oas3/checkfile - Validate OAS3 provided as a YAML string in the request body.
+- /oas3/checkyaml - Validate OAS3 provided as a YAML string in the request body.
 - /oas3/badges/checkurl - Show the validation score of an OAS3 provided via a publicly accessible URL as image.
